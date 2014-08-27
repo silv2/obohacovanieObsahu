@@ -1,0 +1,1 @@
+Projekt na ukážku základnej implementácie a používania geonames a DbPedia na obohacovanie obsahu.
